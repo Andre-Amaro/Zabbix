@@ -41,7 +41,7 @@ check if a group is fully down
 """  
 def alldown(list,count,name):
     if list == int(count):
-        return print("a Torre de  ", name, " Está down ") # remover o print e adicionar respota da api whatsapp 
+        return print("a Torre de  ", name, " Está down ") # remove print and add the api module
     else :
         pass
     
